@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tracers SYSTEM "sources_selTrnsp.dtd">
+
+<sources>
+  <pntSrc id="Raikoke-SO2">
+    <lon type="real">???</lon>
+    <lat type="real">???</lat>
+    <substance type="char">TRSO2</substance>
+    <source_strength type="real">???</source_strength>
+    <height type="real">???</height>
+    <height_bot type="real">???</height_bot>
+    <unit type="char">kg s-1</unit>
+    <startTime type="char">2019-06-21T18:00:00</startTime>
+    <endTime type="char">2019-06-22T03:00:00</endTime>
+  </pntSrc>
+  <pntSrc id="Raikoke-ashacc">
+    <lon type="real">???</lon>
+    <lat type="real">???</lat>
+    <substance type="char">ash_insol_acc</substance>
+    <dg3_emiss type="real">???</dg3_emiss>
+    <sigma_emiss type="real">???</sigma_emiss>
+    <source_strength type="real">???</source_strength>
+    <height type="real">???</height>
+    <height_bot type="real">???</height_bot>
+    <unit type="char">kg s-1</unit>
+    <startTime type="char">2019-06-21T18:00:00</startTime>
+    <endTime type="char">2019-06-22T03:00:00</endTime>
+  </pntSrc>
+  <pntSrc id="Raikoke-ashcoa">
+    <lon type="real">???</lon>
+    <lat type="real">???</lat>
+    <substance type="char">ash_insol_coa</substance>
+    <dg3_emiss type="real">???</dg3_emiss>
+    <sigma_emiss type="real">???</sigma_emiss> 
+    <source_strength type="real">???</source_strength>
+    <height type="real">???</height>
+    <height_bot type="real">???</height_bot>
+    <unit type="char">kg s-1</unit>
+    <startTime type="char">2019-06-21T18:00:00</startTime>
+    <endTime type="char">2019-06-22T03:00:00</endTime>
+  </pntSrc>
+  <pntSrc id="Raikoke-ashgiant">
+    <lon type="real">???</lon>
+    <lat type="real">???</lat>
+    <substance type="char">ash_giant</substance>
+    <dg3_emiss type="real">???</dg3_emiss>
+    <sigma_emiss type="real">???</sigma_emiss>
+    <source_strength type="real">???</source_strength>
+    <height type="real">???</height>
+    <height_bot type="real">???</height_bot>
+    <unit type="char">kg s-1</unit>
+    <startTime type="char">2019-06-21T18:00:00</startTime>
+    <endTime type="char">2019-06-22T03:00:00</endTime>
+  </pntSrc>
+</sources>

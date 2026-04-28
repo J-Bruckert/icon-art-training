@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tracers SYSTEM "tracers.dtd">
+
+<tracers>
+  <aerosol id="nmb">
+    <moment type="int">0</moment>
+    <mode type="char">insol_acc,insol_coa,giant</mode>
+    <unit type="char">kg-1</unit>
+    <transport type="char">hadv52aero</transport>
+  </aerosol>
+  <aerosol id="dust">
+    <moment type="int">3</moment>
+    <mode type="char">insol_acc,insol_coa,giant</mode>
+    <label type="char">dusta,dustb,dustc</label>
+    <sol type="real">0.</sol>
+    <mol_weight type="real">50.00E-3</mol_weight>
+    <rho type="real">2.650E+3</rho>
+    <unit type="char">mug kg-1</unit>
+    <transport type="char">hadv52aero</transport>
+  </aerosol>
+</tracers>

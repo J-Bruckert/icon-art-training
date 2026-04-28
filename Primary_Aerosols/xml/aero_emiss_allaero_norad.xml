@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tracers SYSTEM "aero_emiss.dtd">
+
+<emiss>
+  <routine id="dust">
+    <nmodes type="int">3</nmodes>
+    <d_g0_1 type="real">???</d_g0_1>
+    <d_g3_1 type="real">???</d_g3_1>
+    <sigma_g_1 type="real">???</sigma_g_1>
+    <d_g0_2 type="real">???</d_g0_2>
+    <d_g3_2 type="real">???</d_g3_2>
+    <sigma_g_2 type="real">???</sigma_g_2>
+    <d_g0_3 type="real">???</d_g0_3>
+    <d_g3_3 type="real">???</d_g3_3>
+    <sigma_g_3 type="real">???</sigma_g_3>
+    <rho type="real">???</rho>
+    <substances type="char">dust</substances>
+   </routine>
+   <routine id="seas_mode1">
+    <nmodes type="int">1</nmodes>
+    <d_g0_1 type="real">???</d_g0_1>
+    <d_g3_1 type="real">???</d_g3_1>
+    <sigma_g_1 type="real">???</sigma_g_1>
+    <rho type="real">???</rho>
+    <substances type="char">na,cl</substances>
+  </routine>
+  <routine id="seas_mode2">
+    <nmodes type="int">1</nmodes>
+    <d_g0_1 type="real">???</d_g0_1>
+    <d_g3_1 type="real">???</d_g3_1>
+    <sigma_g_1 type="real">???</sigma_g_1>
+    <rho type="real">???</rho>
+    <substances type="char">na,cl</substances>
+  </routine>
+  <routine id="biomass_burning">
+    <nmodes type="int">1</nmodes>
+    <d_g0_1 type="real">???</d_g0_1>
+    <d_g3_1 type="real">???</d_g3_1>
+    <sigma_g_1 type="real">???</sigma_g_1>
+    <rho type="real">???</rho>
+    <substances type="char">soot</substances>
+  </routine>
+</emiss>
+

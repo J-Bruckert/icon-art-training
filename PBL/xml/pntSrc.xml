@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tracers SYSTEM "sources_selTrnsp.dtd">
+
+<sources>
+  <pntSrc id="tracer50">
+    <lon type="real">8.4043</lon>
+    <lat type="real">49.014</lat>
+    <substance type="char">tracer50</substance>
+    <source_strength type="real">10</source_strength>
+    <height type="real">50.</height>
+    <unit type="char">kg s-1</unit>
+    <startTime type="char">2010-04-03T00:00:00</startTime>
+    <endTime type="char">2020-04-31T00:00:00</endTime>
+  </pntSrc>
+  <pntSrc id="tracer500">
+    <lon type="real">8.4043</lon>
+    <lat type="real">49.014</lat>
+    <substance type="char">tracer500</substance>
+    <source_strength type="real">10</source_strength>
+    <height type="real">500.</height>
+    <unit type="char">kg s-1</unit>
+    <startTime type="char">2010-04-03T00:00:00</startTime>
+    <endTime type="char">2020-04-31T00:00:00</endTime>
+  </pntSrc>
+</sources>
+

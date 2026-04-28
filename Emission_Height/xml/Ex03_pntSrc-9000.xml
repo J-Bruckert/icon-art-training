@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tracers SYSTEM "sources_selTrnsp.dtd">
+
+<sources>
+  <pntSrc id="Eyjaf-ashacc">
+    <lon type="real">-19.633</lon>
+    <lat type="real">???</lat>
+    <substance type="char">ash_insol_acc</substance>
+    <dg3_emiss type="real">0.8E-6</dg3_emiss>
+    <sigma_emiss type="real">1.4</sigma_emiss>
+    <source_strength type="real">???</source_strength>
+    <height type="real">???</height>
+    <unit type="char">kg s-1</unit>
+    <startTime type="char">????-??-??T??:??:00</startTime>
+    <endTime type="char">????-??-??T??:??:00</endTime>
+  </pntSrc>
+  <pntSrc id="Eyjaf-ashcoa">
+    <lon type="real">-19.633</lon>
+    <lat type="real">???</lat>
+    <substance type="char">ash_insol_coa</substance>
+    <dg3_emiss type="real">2.98E-6</dg3_emiss>
+    <sigma_emiss type="real">1.4</sigma_emiss> 
+    <source_strength type="real">???</source_strength>
+    <height type="real">???</height>
+    <unit type="char">kg s-1</unit>
+    <startTime type="char">????-??-??T??:??:00</startTime>
+    <endTime type="char">????-??-??T??:??:00</endTime>
+  </pntSrc>
+  <pntSrc id="Eyjaf-ashgiant">
+    <lon type="real">-19.633</lon>
+    <lat type="real">???</lat>
+    <substance type="char">ash_giant</substance>
+    <dg3_emiss type="real">11.35E-6</dg3_emiss>
+    <sigma_emiss type="real">1.4</sigma_emiss>
+    <source_strength type="real">???</source_strength>
+    <height type="real">???</height>
+    <unit type="char">kg s-1</unit>
+    <startTime type="char">????-??-??T??:??:00</startTime>
+    <endTime type="char">????-??-??T??:??:00</endTime>
+  </pntSrc>
+</sources>

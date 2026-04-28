@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tracers SYSTEM "tracers.dtd">
+
+<tracers>
+  <chemtracer id="tracer50" full="FALSE" chemtr="TRUE">
+    <tag001 type="char">chemtr</tag001>
+    <mol_weight type="real">1.000E+0</mol_weight>
+    <lifetime type="real">25920000</lifetime>
+    <transport type="char">stdaero</transport>
+    <unit type="char">mol mol-1</unit>
+    <c_solve type="char">passive</c_solve>
+  </chemtracer>
+  <chemtracer id="tracer500" full="FALSE" chemtr="TRUE">
+    <tag001 type="char">chemtr</tag001>
+    <mol_weight type="real">1.000E+0</mol_weight>
+    <lifetime type="real">25920000</lifetime>
+    <transport type="char">stdaero</transport>
+    <unit type="char">mol mol-1</unit>
+    <c_solve type="char">passive</c_solve>
+  </chemtracer>
+</tracers>
